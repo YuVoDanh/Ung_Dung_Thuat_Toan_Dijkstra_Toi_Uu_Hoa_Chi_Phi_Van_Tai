@@ -323,7 +323,7 @@ namespace WinFormsApp1
 
                 Point end = cityPoints[path[i + 1]];
 
-                int steps = 50;
+                int steps = 20;
 
                 for (int s = 0; s <= steps; s++)
                 {
@@ -335,7 +335,7 @@ namespace WinFormsApp1
                 }
             }
 
-            truckTimer.Interval = 30;
+            truckTimer.Interval = 12;
 
             truckTimer.Tick -= TruckTimer_Tick;
 
