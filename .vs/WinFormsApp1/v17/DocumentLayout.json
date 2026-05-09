@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|d:\\gi\u1EA3i thu\u1EADt\\winformsapp1\\winformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|d:\\gi\u1EA3i thu\u1EADt\\winformsapp1\\winformsapp1\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|d:\\gi\u1EA3i thu\u1EADt\\winformsapp1\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|d:\\gi\u1EA3i thu\u1EADt\\winformsapp1\\winformsapp1\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|d:\\gi\u1EA3i thu\u1EADt\\winformsapp1\\winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|d:\\gi\u1EA3i thu\u1EADt\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47BC60CA-06E4-4737-9DA9-D6B0E11F74AD}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Mainform.cs",
+              "ToolTip": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.cs",
+              "RelativeToolTip": "WinFormsApp1\\Mainform.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvzcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:22:00.664Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mainform.resx",
+              "DocumentMoniker": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Mainform.resx",
+              "ToolTip": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.resx",
+              "RelativeToolTip": "WinFormsApp1\\Mainform.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-07T10:55:48.884Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mainform.Designer.cs",
+              "DocumentMoniker": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Mainform.Designer.cs",
+              "ToolTip": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Mainform.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:17:22.119Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T05:59:45.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Mainform.cs",
+              "ToolTip": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Mainform.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:57:19.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Properties\\Resources.resx",
+              "ToolTip": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Properties\\Resources.resx",
+              "RelativeToolTip": "WinFormsApp1\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-08T05:55:37.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\gi\u1EA3i thu\u1EADt\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:52:47.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

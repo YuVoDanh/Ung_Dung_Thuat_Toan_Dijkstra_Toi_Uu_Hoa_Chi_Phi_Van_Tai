@@ -1,0 +1,51 @@
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\giải thuật\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\giải thuật\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\giải thuật\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\giải thuật\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\giải thuật\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\giải thuật\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\HuangYu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\HuangYu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\HuangYu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\HuangYu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\HuangYu\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\HuangYu\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\HuangYu\Ung_dung_thuat_toan_Dijkstra_toi uu_hoa_chi_phi_van_tai\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
