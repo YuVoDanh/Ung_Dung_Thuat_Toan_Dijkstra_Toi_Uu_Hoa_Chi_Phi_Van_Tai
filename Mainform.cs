@@ -215,7 +215,7 @@ namespace WinFormsApp1
 
             double totalDistance = result.distance;
 
-            double gasoline = totalDistance / 15.0;
+            double gasoline = totalDistance * 0.15;
 
             double transportCost = gasoline * 25000;
 
